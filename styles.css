@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border-radius: 8px;
 }
 
 body {
@@ -23,10 +24,11 @@ header {
 header img {
     width: 180px;
     height: 180px;
-    border-radius: 50%;
+    border-radius: 100%;
     object-fit: cover;
     border: 4px solid #e8c170;
     margin-bottom: 20px;
+
 }
 
 h1 {
